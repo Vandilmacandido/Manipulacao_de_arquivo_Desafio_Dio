@@ -1,6 +1,14 @@
 [2023-10-04 19:56:53] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('1')>],) e {}. Retornou None
-[2023-10-04 19:57:40] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('1')>], [<ContaCorrente: ('0001', '1', 'Guilherme')>]) e {}. Retornou None
+[2023-10-04 19:57:40] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('1')>], [<ContaCorrente: ('0001', '1', 'Fernando')>]) e {}. Retornou None
 [2023-10-04 19:57:46] Função 'depositar' executada com argumentos ([<PessoaFisica: ('1')>],) e {}. Retornou None
 [2023-10-04 20:00:03] Função 'criar_conta' executada com argumentos (1, [], []) e {}. Retornou None
 [2023-10-04 20:00:14] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('2')>],) e {}. Retornou None
 [2023-10-04 20:05:27] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('Chappie', '3')>],) e {}. Retornou None
+[2025-11-09 21:33:31] Fun��o 'depositar' executada com argumentos ([],) e {}. Retornou None
+[2025-11-09 21:33:56] Fun��o 'depositar' executada com argumentos ([],) e {}. Retornou None
+[2025-11-09 21:34:50] Fun��o 'criar_conta' executada com argumentos (1, [], []) e {}. Retornou None
+[2025-11-09 21:35:34] Fun��o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('vandilma', '2')>],) e {}. Retornou None
+[2025-11-09 21:35:46] Fun��o 'depositar' executada com argumentos ([<PessoaFisica: ('vandilma', '2')>],) e {}. Retornou None
+[2025-11-09 21:36:00] Fun��o 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('vandilma', '2')>], [<ContaCorrente: ('0001', '1', 'vandilma')>]) e {}. Retornou None
+[2025-11-09 21:36:09] Fun��o 'depositar' executada com argumentos ([<PessoaFisica: ('vandilma', '2')>],) e {}. Retornou None
+[2025-11-09 21:36:39] Fun��o 'sacar' executada com argumentos ([<PessoaFisica: ('vandilma', '2')>],) e {}. Retornou None
